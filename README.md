@@ -2,10 +2,7 @@
 AI-powered Resume Analyzer and Mock Interview System that evaluates job fit and provides personalized improvement insights.
 # 🚀 AI Resume Analyzer & Interview Copilot
 
-![Status](https://img.shields.io/badge/status-in--progress-yellow?style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made%20With-AI-blue?style=for-the-badge)
-![Project Type](https://img.shields.io/badge/type-AI%20Project-purple?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge)
+
 
 > Turn your resume into a job-ready asset. Practice interviews like it’s the real thing.
 
